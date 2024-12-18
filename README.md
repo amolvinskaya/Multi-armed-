@@ -5,3 +5,7 @@
 
 
 Ссылка на набор данных: https://www.kaggle.com/datasets/olegshpagin/russia-stocks-prices-ohlcv
+
+Данные необходимо взять по часам
+Файл не прикрепляется - можем кинуть в тг
+
